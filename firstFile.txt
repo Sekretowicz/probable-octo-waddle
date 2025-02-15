@@ -4,7 +4,7 @@ Updated line 3 in firstFile.txt
 line4
 Updated line 5 in firstFile.txt
 line6
-Updated line 7 in firstFile.txt
+line7
 line8
-Updated line 9 in firstFile.txt
+line9
 line10
