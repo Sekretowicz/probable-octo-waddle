@@ -2,6 +2,9 @@ line1
 Modified line 2 in git_1
 line3
 Modified line 4 in git_1
+Modified line 2 in git_2
+line3
+Modified line 4 in git_2
 line5
 line6
 line7
